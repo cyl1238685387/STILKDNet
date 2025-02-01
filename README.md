@@ -26,6 +26,7 @@ propagating the three losses optimize the network parameters,
  accurate results for surface monitoring. Experiments show that
  STIKDNet outperfroms current state-of-the-art methods on three
  benchmark dataset of LEVIR-CD, SYSU-CD and WHU-CD. 
+![Uploading image.png…]()
 
 
 ## Environment require
