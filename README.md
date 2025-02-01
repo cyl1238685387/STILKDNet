@@ -25,11 +25,7 @@ propagating the three losses optimize the network parameters,
  model’s judgment logic, and improve performance, providing
  accurate results for surface monitoring. Experiments show that
  STIKDNet outperfroms current state-of-the-art methods on three
- benchmark dataset of LEVIR-CD, SYSU-CD and WHU-CD. The
- code is available at (following the IJCNN’25 anonymity policy,
- we provide a double-blind anonymous link through Anonymous
- Github) https://anonymous.4open.science/r/STILKDNet.
-.<div align=center>![image](https://github.com/user-attachments/assets/86ced9e3-e35c-4802-9e17-2b60c2c74373)</div>
+ benchmark dataset of LEVIR-CD, SYSU-CD and WHU-CD. 
 
 
 ## Environment require
