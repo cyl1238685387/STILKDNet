@@ -55,14 +55,17 @@ TABLE IV: Quantitative Comparisons on CD Results
 ![image](https://github.com/user-attachments/assets/079ea2bb-fae5-48a5-83a8-41344d8c8580)
 
 ![image](https://github.com/user-attachments/assets/3d9e338e-0228-4df7-82cc-daae3c791e85)
+  
 Fig. 2: Visual comparisons of the proposed method and SOTA methods on the LEVIR-CD dataset (a) A images. (b) B images. (c) FC-EF [26]. (d) ChangeFormer [30]. (e) TFI-GR [32]. (f) A2Net [33]. (g) SEIFnet [17] (h) Proposed STIKDNet. (i) Ground truth. S1–S3 represent three samples.
 <br><br>
 
 ![image](https://github.com/user-attachments/assets/4a58a6d7-eef8-41ea-9b9a-6ec513ed87ae)
+  
 Fig. 3: Visual comparisons of the proposed method and SOTA methods on the SYSU-CD dataset (a) A images. (b) B images. (c) FC-EF [26]. (d) ChangeFormer [30]. (e) TFI-GR [32]. (f) A2Net [33]. (g) SEIFnet [17] (h) Proposed STIKDNet. (i) Ground truth. S1–S3 represent three samples.
 <br><br>
 
 ![image](https://github.com/user-attachments/assets/406f7c57-c432-4855-93b4-b5243719e74e)
+  
 Fig. 4: Visual comparisons of the proposed method and SOTA methods on the WHU-CD dataset (a) A images. (b) B images. (c) FC-EF [26]. (d) ChangeFormer [30]. (e) TFI-GR [32]. (f) A2Net [33]. (g) SEIFnet [17] (h) Proposed STIKDNet. (i) Ground truth. S1–S3 represent three samples.
 <br><br>
 
