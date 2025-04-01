@@ -49,8 +49,8 @@ conda create --name CD python=3.11
 bash run.sh
   </pre>
 </div>
-## Method
 
+## Method
 TABLE I: Choice of data perturbation method
 
 ![image](https://github.com/user-attachments/assets/0bce94b7-dcfc-4a15-bb7e-2991ef8a98da)
