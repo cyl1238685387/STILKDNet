@@ -62,7 +62,7 @@ Fig. 2: Visual comparisons of the proposed method and SOTA methods on the LEVIR-
 Fig. 3: Visual comparisons of the proposed method and SOTA methods on the SYSU-CD dataset (a) A images. (b) B images. (c) FC-EF [26]. (d) ChangeFormer [30]. (e) TFI-GR [32]. (f) A2Net [33]. (g) SEIFnet [17] (h) Proposed STIKDNet. (i) Ground truth. S1–S3 represent three samples.
 <br><br>
 
-![image](https://github.com/user-attachments/assets/e472fcde-a83a-451e-91c1-18f153fcacff)
+![image](https://github.com/user-attachments/assets/406f7c57-c432-4855-93b4-b5243719e74e)
 Fig. 4: Visual comparisons of the proposed method and SOTA methods on the WHU-CD dataset (a) A images. (b) B images. (c) FC-EF [26]. (d) ChangeFormer [30]. (e) TFI-GR [32]. (f) A2Net [33]. (g) SEIFnet [17] (h) Proposed STIKDNet. (i) Ground truth. S1–S3 represent three samples.
 <br><br>
 
