@@ -30,20 +30,38 @@ propagating the three losses optimize the network parameters,
 
 
 ## Environment require
+<div style="background-color: #f6f8fa; border-radius: 3px; padding: 10px; margin: 5px 0;">
+  <div style="text-align: right; margin-bottom: 5px;">
+    <button onclick="copyToClipboard(this)"></button>
+  </div>
+  <pre style="margin: 0;">
 conda create --name CD python=3.11
-<br><br>
+  </pre>
+</div>
+
+
 ## train
+<div style="background-color: #f6f8fa; border-radius: 3px; padding: 10px; margin: 5px 0;">
+  <div style="text-align: right; margin-bottom: 5px;">
+    <button onclick="copyToClipboard(this)"></button>
+  </div>
+  <pre style="margin: 0;">
 bash run.sh
-<br><br>
+  </pre>
+</div>
 ## Method
+
 TABLE I: Choice of data perturbation method
 
 ![image](https://github.com/user-attachments/assets/0bce94b7-dcfc-4a15-bb7e-2991ef8a98da)
 <br><br>
+
 ![image](https://github.com/user-attachments/assets/4d38bbee-41a0-4375-943c-8aad544fb79d)
 Fig. 1: The pipeline of the proposed STIKDNet
 <br><br>
+
 TABLE II: Experimental Results of Different Transformations on Image B on different Dataset
+
 ![image](https://github.com/user-attachments/assets/1bfc1969-210f-4874-adf8-4333391ad12e)
 <br><br>
 ## Comparison With SOTA Methods
@@ -51,8 +69,11 @@ TABLE III: Experimental Results for Different Datasets and Loss Combinations
 
 ![image](https://github.com/user-attachments/assets/cb380c1f-dc85-4f3d-9175-95557fcced67)
 <br><br>
+
 TABLE IV: Quantitative Comparisons on CD Results
+
 ![image](https://github.com/user-attachments/assets/079ea2bb-fae5-48a5-83a8-41344d8c8580)
+<br><br>
 
 ![image](https://github.com/user-attachments/assets/3d9e338e-0228-4df7-82cc-daae3c791e85)
   
