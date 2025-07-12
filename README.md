@@ -59,8 +59,7 @@ TABLE I: Choice of data perturbation method
 ![1_jgnew](https://github.com/user-attachments/assets/5535fd72-41f0-48de-8340-d9f002caf333)
 
 
-![image](https://github.com/user-attachments/assets/4d38bbee-41a0-4375-943c-8aad544fb79d)
-Fig. 1: The pipeline of the proposed STIKDNet
+Fig. 1: The pipeline of the proposed method and its module illustration. (a) STIKDNet.(b) ST-DEM
 <br><br>
 
 TABLE II: Experimental Results of Different Transformations on Image B on different Dataset
