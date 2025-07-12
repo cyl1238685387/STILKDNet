@@ -56,6 +56,9 @@ TABLE I: Choice of data perturbation method
 ![image](https://github.com/user-attachments/assets/0bce94b7-dcfc-4a15-bb7e-2991ef8a98da)
 <br><br>
 
+![1_jgnew](https://github.com/user-attachments/assets/5535fd72-41f0-48de-8340-d9f002caf333)
+
+
 ![image](https://github.com/user-attachments/assets/4d38bbee-41a0-4375-943c-8aad544fb79d)
 Fig. 1: The pipeline of the proposed STIKDNet
 <br><br>
